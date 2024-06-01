@@ -1,4 +1,4 @@
-# mhaESC_genome
+# mhaESC Genome v1.0
 
 Here lists the assembled genome, annotations and BioNano raw data downloads.
 
