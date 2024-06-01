@@ -4,9 +4,8 @@ Here lists the assembled genome, annotations and BioNano raw data downloads.
 
 ## Assembled Genome
 
-- [mouse.240119.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/release/mouse.240119.fasta.gz) (Assembled genome, including Chr01-19 and ChrX)
-- [mouse.240529.chrM.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/release/mouse.240529.chrM.fasta.gz) (Assembled genome of mouse mitochondria DNA)
-- 
+- [mouse.240119.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/release/mouse.240119.fasta.gz) (Assembled genome for mhaESC)
+
 
 ## Genome Annotation
 
