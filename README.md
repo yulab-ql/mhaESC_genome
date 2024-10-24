@@ -1,15 +1,15 @@
-# mhaESC Genome v1.0
+# mhaESC Genome v1.1
 
 Here lists the assembled genome, annotations and BioNano raw data downloads.
 
 ## Assembled Genome
 
-- [mouse.240119.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/release/mouse.240119.fasta.gz) (Assembled genome for mhaESC)
+- [mouse.241018.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.v1.1.0.combined.fasta.gz) (Assembled genome for mhaESC)
 
 
 ## Genome Annotation
 
-- [mhaESC.annotation.v1.0.1.20240530.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/release/mhaESC.annotation.v1.0.1.20240530.gff3.gz) (v1.0.1 annotation, with 140 novel predicted genes)
+- [mhaESC.annotation.v1.1.0.20241018.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaESC.annotation.v1.1.0.20241018.gff3.gz) (v1.1.0 annotation, with 140 novel predicted genes)
 
 ## BioNano Raw Data
 
