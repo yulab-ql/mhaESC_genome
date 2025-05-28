@@ -11,6 +11,14 @@ Here lists the assembled genome, annotations and BioNano raw data downloads.
 
 - [mhaESC.annotation.v1.1.0.20241018.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaESC.annotation.v1.1.0.20241018.gff3.gz) (v1.1.0 annotation, with 140 novel predicted genes)
 
+## RepeatMasker Data
+
+- [mouse.241018.masked.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.masked.fasta.gz) (Hard Masked Genome)
+- [mouse.241018.soft.masked.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.soft.masked.fasta.gz) (Soft Masked Genome)
+- [mouse.241018.repeats.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.repeats.gff.gz) (Integrated Annotation of Repeats)
+- [mouse.241018.TE.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.TE.gff.gz) (Annotation of Transposable Elements)
+- [mouse.241018.TR.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.TR.gff.gz) (Annotation of Tandem Repeats)
+
 ## BioNano Raw Data
 
 The BioNano raw data is zipped in splitted files.
