@@ -10,6 +10,7 @@ Here lists the assembled genome, annotations and BioNano raw data downloads.
 ## Genome Annotation
 
 - [mhaESC.annotation.v1.1.0.20241018.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaESC.annotation.v1.1.0.20241018.gff3.gz) (v1.1.0 annotation, with 140 novel predicted genes)
+- [mhaESC.rRNA.gtf](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaESC.rRNA.gtf) (annotation for ribosomal DNA)
 
 ## RepeatMasker Data
 
