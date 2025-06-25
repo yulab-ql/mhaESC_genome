@@ -1,18 +1,35 @@
-# mhaESC Genome v1.1
+# mhaESC Genome v1.1 + mT2T-Y
 
 Here lists the assembled genome, annotations and BioNano raw data downloads.
 
 ## Assembled Genome
 
+### mhaESC v1.1
+
 - [mouse.241018.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.v1.1.0.combined.fasta.gz) (Assembled genome for mhaESC)
+
+### mT2T-Y & mT2T-X
+
+- [mT2T-Y.250617.v1.0.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-Y.250617.v1.0.0.fasta.gz) (Assembled mT2T Y chromosome)
+- [mT2T-X.250617.v1.0.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-X.250617.v1.0.0.fasta.gz) (Assembled mT2T X chromosome)
 
 
 ## Genome Annotation
 
-- [mhaESC.annotation.v1.1.0.20241018.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaESC.annotation.v1.1.0.20241018.gff3.gz) (v1.1.0 annotation, with 140 novel predicted genes)
+### mhaESC v1.1
+
+- [mhaESC.annotation.v1.1.1.20250623.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaESC.annotation.v1.1.1.20250623.gff3.gz) (v1.1.1 annotation, fix annotation on PAR)
 - [mhaESC.rRNA.gtf](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaESC.rRNA.gtf) (annotation for ribosomal DNA)
 
+### mT2T-Y & mT2T-X
+
+- [mT2T-Y.annotation.v1.0.0.20250613.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-Y.annotation.v1.0.0.20250613.gff3.gz) (annotatino for mT2T-Y)
+- [mT2T-X.annotation.v1.0.0.20250613.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-X.annotation.v1.0.0.20250613.gff.gz) (anotation for mT2T-X)
+
+
 ## RepeatMasker Data
+
+### mhaESC v1.1
 
 - [mouse.241018.masked.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.masked.fasta.gz) (Hard Masked Genome)
 - [mouse.241018.soft.masked.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.soft.masked.fasta.gz) (Soft Masked Genome)
@@ -20,7 +37,25 @@ Here lists the assembled genome, annotations and BioNano raw data downloads.
 - [mouse.241018.TE.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.TE.gff.gz) (Annotation of Transposable Elements)
 - [mouse.241018.TR.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.TR.gff.gz) (Annotation of Tandem Repeats)
 
+### mT2T-Y
+
+- [mT2T-Y.repeats.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-Y.repeats.gff.gz) (Integrated Annotation of Repeats)
+
 ## LiftOver Chains
+
+### mhaESC v1.1 with mT2T-Y chains
+
+For GRCm38 (mm10):
+
+- [grcm38-mhaescv1.1_with_mT2T_Y.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/grcm38-mhaescv1.1_with_mT2T_Y.chain) (GRCm38 -> mhaESC v1.1 + mT2T-Y)
+- [mhaescv1.1_with_mT2T_Y-grcm38.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaescv1.1_with_mT2T_Y-grcm38.chain) (mhaESC v1.1 + mT2T-Y -> GRCm38)
+
+For GRCm39 (mm39):
+
+- [grcm39-mhaescv1.1_with_mT2T_Y.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/grcm39-mhaescv1.1_with_mT2T_Y.chain) (GRCm39 -> mhaESC v1.1 + mT2T-Y)
+- [mhaescv1.1_with_mT2T_Y-grcm39.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaescv1.1_with_mT2T_Y-grcm39.chain) (mhaESC v1.1 + mT2T-Y -> GRCm39)
+
+### mhaESC v1.1 chains
 
 For GRCm38 (mm10):
 - [grcm38-mhaescv1.1.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/grcm38-mhaescv1.1.chain)
@@ -30,7 +65,7 @@ For GRCm39 (mm39):
 - [grcm39-mhaescv1.1.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/grcm39-mhaescv1.1.chain)
 - [mhaescv1.1-grcm39.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaescv1.1-grcm39.chain)
 
-## BioNano Raw Data
+## BioNano Raw Data for mhaESC v1.1
 
 The BioNano raw data is zipped in splitted files.
 
