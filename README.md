@@ -71,3 +71,13 @@ For GRCm38 (mm10):
 For GRCm39 (mm39):
 - [grcm39-mhaescv1.1.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/grcm39-mhaescv1.1.chain)
 - [mhaescv1.1-grcm39.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaescv1.1-grcm39.chain)
+
+## Version info
+
+This page is last updated on Jun 25, 2025 08:00 (UTC+0).
+
+## Contact
+
+Please mail to liqilin★westlake.edu.cn for any related questions.
+
+(Replace ★ with proper symbol)
