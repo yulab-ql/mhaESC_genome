@@ -17,7 +17,7 @@ For old version of readme.md, please check "previous_readme" folder for details.
 
 ### mhaESC v1.1 with mT2T-Y
 
--[mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz) (mhaESC v1.1 with mT2T-Y)
+- [mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz) (mhaESC v1.1 with mT2T-Y)
 
 ### mT2T-Y & mT2T-X
 
