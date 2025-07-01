@@ -15,6 +15,10 @@ For old version of readme.md, please check "previous_readme" folder for details.
 
 - [mouse.241018.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.v1.1.0.combined.fasta.gz) (Assembled genome for mhaESC)
 
+### mhaESC v1.1 with mT2T-Y
+
+-[mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz(https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz) (mhaESC v1.1 with mT2T-Y)
+
 ### mT2T-Y & mT2T-X
 
 - [mT2T-Y.250617.v1.0.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-Y.250617.v1.0.0.fasta.gz) (Assembled mT2T Y chromosome)
