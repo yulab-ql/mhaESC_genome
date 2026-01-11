@@ -1,0 +1,5 @@
+hub mhaESC_hub
+shortLabel mhaESC
+longLabel mhaESC_v1.5
+genomesFile genomes.txt
+email liqilin@westlake.edu.cn
