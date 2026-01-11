@@ -1,0 +1,7 @@
+genome mhaESC_v1.5
+trackDb mhaESC_v1.5/trackDb.txt
+twoBitPath mhaESC_v1.5/mhaESC_v1.5.2bit
+organism "Mus musculus"
+description "mhaESC assembly v1.5"
+defaultPos Chr01:1-10000
+scientificName "Mus musculus"
