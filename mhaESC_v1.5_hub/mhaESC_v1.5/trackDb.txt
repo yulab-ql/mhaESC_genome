@@ -1,0 +1,8 @@
+track mhaESC_v1.5_Track
+bigDataUrl mhaESC_v1.5.bb
+shortLabel mhaESC v1.5 Genes
+longLabel Gene Annotations from mhaESC v1.5
+type bigBed 12
+visibility pack
+color 0,100,0
+group genes
