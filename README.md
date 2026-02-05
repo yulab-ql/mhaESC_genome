@@ -1,4 +1,4 @@
-# mhaESC Genome v1.1 + mT2T-Y
+# mhaESC Genome v1.1 + mT2T-Y v1.1
 
 This page includes the following information:
 
@@ -15,27 +15,24 @@ For old version of readme.md, please check "previous_readme" folder for details.
 
 - [mouse.241018.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.v1.1.0.combined.fasta.gz) (Assembled genome for mhaESC)
 
-### mhaESC v1.1 with mT2T-Y
+### mhaESC v1.1 with mT2T-Y v1.1
 
-- [mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaESC_v1.1_with_mT2T-Y_v1.0.250617.fasta.gz) (mhaESC v1.1 with mT2T-Y)
+- [mhaESC_v1.1_with_mT2T-Y_v1.1.251107.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mhaESC_v1.1_with_mT2T-Y_v1.1.251107.fasta.gz) (mhaESC v1.1 with mT2T-Y v1.1)
 
-### mT2T-Y & mT2T-X
+### mT2T-Y v1.1
 
-- [mT2T-Y.250617.v1.0.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-Y.250617.v1.0.0.fasta.gz) (Assembled mT2T Y chromosome)
-- [mT2T-X.250617.v1.0.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-X.250617.v1.0.0.fasta.gz) (Assembled mT2T X chromosome)
-
+- [mT2T-Y.251107.v1.1.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mT2T-Y.251107.v1.1.0.fasta.gz) (Assembled mT2T Y chromosome)
 
 ## Genome Annotation
 
-### mhaESC v1.1
+### mhaESC v1.1 with mT2T-Y v1.1
 
-- [mhaESC.annotation.v1.1.1.20250623.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaESC.annotation.v1.1.1.20250623.gff3.gz) (v1.1.1 annotation, fix annotation on PAR)
+- [mhaESC_v1.1_with_mT2T-Y_v1.1.260129.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mhaESC_v1.1_with_mT2T-Y_v1.1.260129.gff3.gz)
 - [mhaESC.rRNA.gtf](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mhaESC.rRNA.gtf) (annotation for ribosomal DNA)
 
-### mT2T-Y & mT2T-X
+### mT2T-Y v1.1
 
-- [mT2T-Y.annotation.v1.0.0.20250613.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-Y.annotation.v1.0.0.20250613.gff3.gz) (annotatino for mT2T-Y)
-- [mT2T-X.annotation.v1.0.0.20250613.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-X.annotation.v1.0.0.20250613.gff.gz) (anotation for mT2T-X)
+- [mT2T-Y_v1.1.annotation.v1.1.0.20260129.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mT2T-Y_v1.1.annotation.v1.1.0.20260129.gff3.gz)
 
 
 ## RepeatMasker Data
@@ -54,17 +51,17 @@ For old version of readme.md, please check "previous_readme" folder for details.
 
 ## LiftOver Chains
 
-### mhaESC v1.1 with mT2T-Y chains
+### mhaESC v1.1 with mT2T-Y v1.1 chains
 
 For GRCm38 (mm10):
 
-- [grcm38-mhaescv1.1_with_mT2T_Y.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/grcm38-mhaescv1.1_with_mT2T_Y.chain) (GRCm38 -> mhaESC v1.1 + mT2T-Y)
-- [mhaescv1.1_with_mT2T_Y-grcm38.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaescv1.1_with_mT2T_Y-grcm38.chain) (mhaESC v1.1 + mT2T-Y -> GRCm38)
+- [grcm38-mhaesc_v1.1_with_mT2T-Y_v1.1.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/grcm38-mhaesc_v1.1_with_mT2T-Y_v1.1.chain) (GRCm38 -> mhaESC v1.1 + mT2T-Y v1.1)
+- [mhaesc_v1.1_with_mT2T-Y_v1.1-grcm38.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mhaesc_v1.1_with_mT2T-Y_v1.1-grcm38.chain) (mhaESC v1.1 + mT2T-Y v1.1 -> GRCm38)
 
 For GRCm39 (mm39):
 
-- [grcm39-mhaescv1.1_with_mT2T_Y.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/grcm39-mhaescv1.1_with_mT2T_Y.chain) (GRCm39 -> mhaESC v1.1 + mT2T-Y)
-- [mhaescv1.1_with_mT2T_Y-grcm39.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mhaescv1.1_with_mT2T_Y-grcm39.chain) (mhaESC v1.1 + mT2T-Y -> GRCm39)
+- [grcm39-mhaesc_v1.1_with_mT2T-Y_v1.1.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/grcm39-mhaesc_v1.1_with_mT2T-Y_v1.1.chain) (GRCm39 -> mhaESC v1.1 + mT2T-Y v1.1)
+- [mhaesc_v1.1_with_mT2T-Y_v1.1-grcm39.chain](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mhaesc_v1.1_with_mT2T-Y_v1.1-grcm39.chain) (mhaESC v1.1 + mT2T-Y v1.1 -> GRCm39)
 
 ### mhaESC v1.1 chains
 
@@ -78,7 +75,7 @@ For GRCm39 (mm39):
 
 ## Version info
 
-This page is last updated on Jun 25, 2025 08:00 (UTC+0).
+This page is last updated on Feb 5, 2026 01:00 (UTC+0).
 
 ## Contact
 
