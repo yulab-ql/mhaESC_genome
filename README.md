@@ -38,6 +38,10 @@ For old version of readme.md, please check "previous_readme" folder for details.
 
 - [mT2T-Y_v1.1.annotation.v1.1.0.20260129.gff3.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mT2T-Y_v1.1.annotation.v1.1.0.20260129.gff3.gz)
 
+### UCSC Track Hub for mhaESC v1.1 with mT2T-Y v1.1
+
+- [mhaESC_v1.1_with_mT2T-Y_v1.1_hub.zip](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mhaESC_v1.1_with_mT2T-Y_v1.1_hub.zip)
+
 
 ## RepeatMasker Data
 
