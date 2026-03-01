@@ -23,6 +23,10 @@ For old version of readme.md, please check "previous_readme" folder for details.
 
 - [mT2T-Y.251107.v1.1.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mT2T-Y.251107.v1.1.0.fasta.gz) (Assembled mT2T Y chromosome)
 
+### mT2T-X v1.1
+
+- [mT2T-X.251107.v1.1.0.fasta.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mT2T-X.251107.v1.1.0.fasta.gz) (Assembled mT2T X chromosome)
+
 ## Genome Annotation
 
 ### mhaESC v1.1 with mT2T-Y v1.1
@@ -45,9 +49,9 @@ For old version of readme.md, please check "previous_readme" folder for details.
 - [mouse.241018.TE.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.TE.gff.gz) (Annotation of Transposable Elements)
 - [mouse.241018.TR.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/upd_rmvector/mouse.241018.TR.gff.gz) (Annotation of Tandem Repeats)
 
-### mT2T-Y
+### mT2T-Y v1.1
 
-- [mT2T-Y.repeats.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y/mT2T-Y.repeats.gff.gz) (Integrated Annotation of Repeats)
+- [mT2T-Y_v1.1.repeats.gff.gz](https://github.com/yulab-ql/mhaESC_genome/releases/download/mT2T-Y_updte/mT2T-Y_v1.1.repeats.gff.gz) (Integrated Annotation of Repeats)
 
 ## LiftOver Chains
 
@@ -75,7 +79,7 @@ For GRCm39 (mm39):
 
 ## Version info
 
-This page is last updated on Feb 5, 2026 01:00 (UTC+0).
+This page is last updated on Mar 1, 2026 06:00 (UTC+0).
 
 ## Contact
 
